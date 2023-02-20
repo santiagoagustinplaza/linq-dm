@@ -1,0 +1,15 @@
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/linq-dm
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/linq-dm.deps.json
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/linq-dm.runtimeconfig.json
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/linq-dm.dll
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/ref/linq-dm.dll
+/home/agustin/Documents/Projects/linq-dm/bin/Debug/net6.0/linq-dm.pdb
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.csproj.AssemblyReference.cache
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.GeneratedMSBuildEditorConfig.editorconfig
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.AssemblyInfoInputs.cache
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.AssemblyInfo.cs
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.csproj.CoreCompileInputs.cache
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.dll
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/ref/linq-dm.dll
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.pdb
+/home/agustin/Documents/Projects/linq-dm/obj/Debug/net6.0/linq-dm.genruntimeconfig.cache
